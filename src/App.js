@@ -1,8 +1,8 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';\\
 import './App.css';
 import './index.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import reactDom from 'react-dom';
+//import reactDom from 'react-dom';\\
 import React from 'react';
 import {Switch, Route} from 'react-router-dom';
 
@@ -10,7 +10,7 @@ import Navbar from './components/Navbar';
 import Cart from './components/Cart';
 import Default from './components/Default';
 import Details from './components/Details';
-import Product from './components/Product';
+//import Product from './components/Product';//
 import ProductList from './components/ProductList';
 import Modal from './components/Modal';
 
