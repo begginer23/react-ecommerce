@@ -1,0 +1,16 @@
+import React from 'react';
+
+export default function CartColumns() {
+    return (
+        <div className="container mt-5">
+            <div className="row">
+                <div className="col-20 mx-auto text-center text-title">
+                    <h1>Your Cart is Empty</h1>
+                </div>
+            </div>
+        </div>
+
+
+
+        );
+    };
